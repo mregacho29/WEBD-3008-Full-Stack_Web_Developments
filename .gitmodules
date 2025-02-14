@@ -4,3 +4,6 @@
 [submodule "04. Demonstration/rails_at_the_movies"]
 	path = 04. Demonstration/rails_at_the_movies
 	url = https://github.com/mregacho29/rails_at_the_movies
+[submodule "ActiveRecord-without-Rails"]
+	path = ActiveRecord-without-Rails
+	url = https://github.com/mregacho29/ActiveRecord-without-Rails
