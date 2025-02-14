@@ -5,5 +5,14 @@
 	path = 04. Demonstration/rails_at_the_movies
 	url = https://github.com/mregacho29/rails_at_the_movies
 [submodule "ActiveRecord-without-Rails"]
-	path = ActiveRecord-without-Rails
+	path = 04. Demonstration/ActiveRecord-without-Rails
 	url = https://github.com/mregacho29/ActiveRecord-without-Rails
+
+
+[submodule "01. Challenges/04. U3 - Ultimate Active Record Challenge/Active-Record-Challenge"]
+	path = 01. Challenges/04. U3 - Ultimate Active Record Challenge/Active-Record-Challenge
+	url = https://github.com/mregacho29/Active-Record-Challenge
+
+[submodule "04. Demonstration/beers_on_rails"]
+	path = 04. Demonstration/beers_on_rails
+	url = https://github.com/mregacho29/beers_on_rails
