@@ -1,3 +1,6 @@
 [submodule "01. Challenges/06. U5 - Rails, Faker, and Git Challenge/simple_store"]
 	path = 01. Challenges/06. U5 - Rails, Faker, and Git Challenge/simple_store
 	url = https://github.com/mregacho29/U5-Rails-Faker-and_Git_Challenge
+[submodule "04. Demonstration/rails_at_the_movies"]
+	path = 04. Demonstration/rails_at_the_movies
+	url = https://github.com/mregacho29/rails_at_the_movies
